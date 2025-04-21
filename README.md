@@ -27,6 +27,7 @@ All required libraries are listed in `requirements.txt`. To install:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## How to Run the Project
 
